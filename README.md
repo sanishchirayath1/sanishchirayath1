@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanishchirayath1
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on blockchain
+- 🌱 I’m currently learning js
+- 💞️ I’m looking forward to create awesome products
 
 https://sanishchirayath1.github.io/portfolio/
 <!---
