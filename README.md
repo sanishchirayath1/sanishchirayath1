@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanish chirayath
 - 👀 I’m interested in buidling new things
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking forward to create awesome products
 
 
