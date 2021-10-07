@@ -10,11 +10,11 @@
 
 <table cellpadding="0">
 <tr style="padding: 0"> 
-<td valign="top" width="50%">
+<td valign="top" width="441">
 <a href="https://app.daily.dev/sanishchirayath"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="350" alt="Sanish Chirayath's Dev Card"/></a>
 </td>
 
-<td valign="center" width="50%"> 
+<td valign="center" width="441"> 
 <ul>
 <li>👋 Hi, I’m Sanish chirayath</li>
 <li>👀I’m interested in buidling new things</li>
