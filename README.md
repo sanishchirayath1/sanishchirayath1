@@ -2,7 +2,7 @@
 <table cellpadding="0">
 <tr style="padding: 0"> 
 <td valign="top" width="441">
-<a href="https://app.daily.dev/sanishchirayath"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="350" alt="Sanish Chirayath's Dev Card"/></a>
+<a href="https://app.daily.dev/sanishchirayath"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="400" alt="Sanish Chirayath's Dev Card"/></a>
 </td>
 
 <td valign="center" width="441"> 
