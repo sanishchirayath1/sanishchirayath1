@@ -23,11 +23,7 @@
 <li>🌱I’m currently learning Everything😂</li>
 <li>💞️ I’m looking forward to create awesome products</li>
 </ul>
-<!-- <div align="center">
 
-<a href="https://www.facebook.com/schirayath" ><img alt="sanish | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png" /></a>
-<a href="https://www.youtube.com/channel/UCAwZvmOxYHMlWvAjj4WzZ6A" ><img alt="sanish | YouTube" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png" /></a>
-</div> -->
 </td>
 </tr>
 </table>
@@ -62,16 +58,23 @@
 
 ---
 ### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![Python](https://badges.aleen42.com/src/python.svg)&nbsp;
+![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;
+![React](https://badges.aleen42.com/src/react.svg)&nbsp;
+![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg)&nbsp;
+![Vite](https://badges.aleen42.com/src/vitejs.svg)&nbsp;
+![Redux](https://badges.aleen42.com/src/redux.svg)&nbsp;
+![Angular](https://badges.aleen42.com/src/angular.svg)&nbsp;
+
+
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanishchirayath1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sanishchirayath1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@SanishChirayath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sanishchirayath//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/schirayath)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sanish_sunny_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sanishch)   -->
 
