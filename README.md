@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/sanishchirayath/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sanishchirayath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/sanish_sunny_"><img src="https://img.shields.io/badge/-@sanish_sunny_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/sanishch"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sanishch?style=social"></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCAwZvmOxYHMlWvAjj4WzZ6A"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAwZvmOxYHMlWvAjj4WzZ6A?style=social"></a>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <table cellpadding="0">
 <tr style="padding: 0"> 
@@ -22,8 +24,7 @@
 <li>💞️ I’m looking forward to create awesome products</li>
 </ul>
 <!-- <div align="center">
-<a href="https://twitter.com/sanishch"><img alt="sanish | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" /></a>
-<a href="https://www.linkedin.com/in/sanishchirayath/" ><img alt="sanish | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" /></a>
+
 <a href="https://www.facebook.com/schirayath" ><img alt="sanish | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png" /></a>
 <a href="https://www.youtube.com/channel/UCAwZvmOxYHMlWvAjj4WzZ6A" ><img alt="sanish | YouTube" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png" /></a>
 </div> -->
