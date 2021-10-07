@@ -24,8 +24,12 @@
 </tr>
 </table>
 
- Tables   |      Are      |  Cool 
-|----------|:-------------:|------:|
- col 1 is |  left-aligned | $1600 
- col 2 is |    centered   |   $12 
- col 3 is | right-aligned |    $1 
+$ cat example.md
+aa|bb|cc
+--|--|--
+ee|ff|gg
+$ cat custom.css
+td, th {
+    border: 1px solid grey
+}
+$ markdown-pdf --css-path='custom.css' example.md
