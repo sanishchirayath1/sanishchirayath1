@@ -26,9 +26,9 @@ You can click the Preview link to take a look at your changes.
         <li>💞️ I’m looking forward to create awesome products</li>
       </ul>
     </div>
-    <p align="center">
+    <div>
       <a href="https://app.daily.dev/sanishchirayath"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="400" alt="Sanish Chirayath's Dev Card"/></a>
-    </p>
+    </div>
   </div>
 </div>
 
