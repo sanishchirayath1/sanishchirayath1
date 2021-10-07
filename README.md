@@ -44,10 +44,10 @@
 <img align="left" alt="Terminal" width="26px" src="images/terminal.png" />
 <!-- <img align="left" alt="Gatsby" width="26px" src="images/gatsby.png" />
 <img align="left" alt="GraphQL" width="26px" src="images/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="images/nodejs.png" /> -->
-<!-- <img align="left" alt="MySQL" width="26px" src="images/mysql.png" /> -->
-<!-- <img align="left" alt="MongoDB" width="26px" src="images/mongodb.png" /> -->
-<br />
+<img align="left" alt="Node.js" width="26px" src="images/nodejs.png" />
+<img align="left" alt="MySQL" width="26px" src="images/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="images/mongodb.png" />
+<br /> -->
 <br />
 
 ---
