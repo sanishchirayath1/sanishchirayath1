@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; align-items: flex-start">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishchirayath1&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark" />
   </div>
