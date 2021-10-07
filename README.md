@@ -8,7 +8,7 @@
 <td valign="center" width="441"> 
 <ul>
 <li>👋 Hi, I’m Sanish chirayath</li>
-<li>👀I’m interested in buidling machines</li>
+<li>👀I’m interested in buidling Machines</li>
 <li>🌱I’m currently learning React</li>
 <li>💞️ I’m looking forward to create awesome products</li>
 </ul>
