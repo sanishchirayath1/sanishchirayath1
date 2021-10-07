@@ -1,8 +1,8 @@
-
+<!-- 
 - 👋 Hi, I’m Sanish chirayath
 - 👀 I’m interested in buidling new things
 - 🌱 I’m currently learning React
-- 💞️ I’m looking forward to create awesome products
+- 💞️ I’m looking forward to create awesome products -->
 <!---
 sanishchirayath1/sanishchirayath1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,10 +25,6 @@ You can click the Preview link to take a look at your changes.
         <li>🌱I’m currently learning React</li>
         <li>💞️ I’m looking forward to create awesome products</li>
       </ul>
-    - 👋 Hi, I’m Sanish chirayath
-    - 👀 I’m interested in buidling new things
-    - 🌱 I’m currently learning React
-    - 💞️ I’m looking forward to create awesome products
     </div>
     <p align="center">
       <a href="https://app.daily.dev/sanishchirayath"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="400" alt="Sanish Chirayath's Dev Card"/></a>
