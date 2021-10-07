@@ -1,4 +1,4 @@
-<<a href="https://app.daily.dev/DailyDevTips"><img src="" width="400" alt="Sanish Chirayath's Dev Card"/></a>
+<<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="400" alt="Sanish Chirayath's Dev Card"/></a>
 
 - 👋 Hi, I’m Sanish chirayath
 - 👀 I’m interested in buidling new things
