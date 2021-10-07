@@ -9,7 +9,7 @@
 <ul>
 <li>👋 Hi, I’m Sanish chirayath</li>
 <li>👀I’m interested in buidling Machines</li>
-<li>🌱I’m currently learning React</li>
+<li>🌱I’m currently learning Everything😂</li>
 <li>💞️ I’m looking forward to create awesome products</li>
 </ul>
 </td>
@@ -23,11 +23,3 @@
 <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td>
 </tr>
 </table>
-
-<style>
-.basic-styling td,
-.basic-styling th {
-  border: 1px solid #999;
-  padding: 0.5rem;
-}
-</style
