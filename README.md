@@ -1,3 +1,5 @@
+[![Sanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanishchirayath1)](https://github.com/sanishchirayath1/github-readme-stats)
+
 <a href="https://app.daily.dev/sanishchirayath"><img src="https://github.com/sanishchirayath1/sanishchirayath1/blob/main/devcard.svg" width="400" alt="Sanish Chirayath's Dev Card"/></a>
 
 - 👋 Hi, I’m Sanish chirayath
