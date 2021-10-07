@@ -23,3 +23,9 @@
 <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td>
 </tr>
 </table>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
