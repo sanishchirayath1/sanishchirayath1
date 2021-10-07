@@ -24,12 +24,10 @@
 </tr>
 </table>
 
-$ cat example.md
-aa|bb|cc
---|--|--
-ee|ff|gg
-$ cat custom.css
-td, th {
-    border: 1px solid red
+<style>
+.basic-styling td,
+.basic-styling th {
+  border: 1px solid #999;
+  padding: 0.5rem;
 }
-$ markdown-pdf --css-path='custom.css' example.md
+</style
