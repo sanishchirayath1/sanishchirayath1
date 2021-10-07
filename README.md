@@ -30,6 +30,6 @@ aa|bb|cc
 ee|ff|gg
 $ cat custom.css
 td, th {
-    border: 1px solid grey
+    border: 1px solid red
 }
 $ markdown-pdf --css-path='custom.css' example.md
