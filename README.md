@@ -21,12 +21,12 @@
 <li>🌱I’m currently learning Everything😂</li>
 <li>💞️ I’m looking forward to create awesome products</li>
 </ul>
-<div align="center">
+<!-- <div align="center">
 <a href="https://twitter.com/sanishch"><img alt="sanish | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" /></a>
 <a href="https://www.linkedin.com/in/sanishchirayath/" ><img alt="sanish | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" /></a>
 <a href="https://www.facebook.com/schirayath" ><img alt="sanish | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png" /></a>
 <a href="https://www.youtube.com/channel/UCAwZvmOxYHMlWvAjj4WzZ6A" ><img alt="sanish | YouTube" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png" /></a>
-</div>
+</div> -->
 </td>
 </tr>
 </table>
