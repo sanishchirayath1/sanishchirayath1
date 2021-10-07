@@ -12,11 +12,11 @@
 <li>🌱I’m currently learning Everything😂</li>
 <li>💞️ I’m looking forward to create awesome products</li>
 </ul>
-<img href="" align="left" alt="sanish | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img href="" align="left" alt="sanish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img href="" align="left" alt="sanish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img href="" align="left" alt="sanish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img href="https://www.facebook.com/schirayath" align="left" alt="sanish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img href="" align="left" alt="sanish | YouTube" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-xxl.png" />
+<img href="" align="left" alt="sanish | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
+<img href="" align="left" alt="sanish | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
+<img href="" align="left" alt="sanish | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xxl.png" />
+<img href="https://www.facebook.com/schirayath" align="left" alt="sanish | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png" />
   
 </td>
 </tr>
