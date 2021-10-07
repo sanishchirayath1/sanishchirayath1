@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/sanishchirayath/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sanishchirayath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/sanish_sunny_"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/sanish_sunny_"><img src="https://img.shields.io/badge/-@sanish_sunny_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <table cellpadding="0">
 <tr style="padding: 0"> 
