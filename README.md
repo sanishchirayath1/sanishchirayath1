@@ -26,6 +26,10 @@
 ![Vite](https://badges.aleen42.com/src/vitejs.svg)&nbsp;
 ![Redux](https://badges.aleen42.com/src/redux.svg)&nbsp;
 ![Angular](https://badges.aleen42.com/src/angular.svg)&nbsp;
+<!-- To be learned -->
+<!-- rust programming laungage -->
+<!-- go programming launguage -->
+<!-- deno runtime enviroment -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <table cellpadding="0">
