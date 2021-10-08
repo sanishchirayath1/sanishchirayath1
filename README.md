@@ -40,6 +40,7 @@
 <li>👀I’m interested in buidling Machines</li>
 <li>🌱I’m currently learning Everything😂</li>
 <li>💞️ I’m looking forward to create awesome products</li>
+<!--   <li>💞️ A humble MEAN stack developer</li> -->
 </ul>
 
 </td>
