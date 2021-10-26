@@ -1,15 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/sanishchirayath1) 
 
-
-### 📫 &nbsp; How to reach me:
-
-
-<a href="https://www.linkedin.com/in/sanishchirayath/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:sanishchirayath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/sanish_sunny_"><img src="https://img.shields.io/badge/-@sanish_sunny_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://twitter.com/sanishch"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sanishch?style=social"></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCAwZvmOxYHMlWvAjj4WzZ6A"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAwZvmOxYHMlWvAjj4WzZ6A?style=social"></a>
-
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -60,6 +50,14 @@
 </table>
 
 ---
+### 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/sanishchirayath/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:sanishchirayath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/sanish_sunny_"><img src="https://img.shields.io/badge/-@sanish_sunny_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/sanishch"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sanishch?style=social"></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCAwZvmOxYHMlWvAjj4WzZ6A"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCAwZvmOxYHMlWvAjj4WzZ6A?style=social"></a>
 
 ### ✍️ &nbsp; Blogs:
 <a href="https://dev.to/sanishchirayath1"><img src='images/download.png' alt='dev' height='40'><a> 
