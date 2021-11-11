@@ -12,9 +12,10 @@
 <!-- ![Python](https://badges.aleen42.com/src/python.svg)&nbsp; -->
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)&nbsp;
 ![React](https://badges.aleen42.com/src/react.svg)&nbsp;
+![Redux](https://badges.aleen42.com/src/redux.svg)&nbsp;
 <!-- ![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg)&nbsp;
 ![Vite](https://badges.aleen42.com/src/vitejs.svg)&nbsp; -->
-![Redux](https://badges.aleen42.com/src/redux.svg)&nbsp;
+
 <!-- ![Angular](https://badges.aleen42.com/src/angular.svg)&nbsp; -->
 <!-- To be learned -->
 <!-- rust programming laungage -->
