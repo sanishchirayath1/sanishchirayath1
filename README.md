@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/sanishchirayath1) 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green) 
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
