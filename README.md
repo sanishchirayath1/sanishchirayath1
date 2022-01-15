@@ -45,12 +45,16 @@
 <table cellpadding="0">
 <tr style="padding: 0">
 <!-- GitHub Stats Card -->  
-<td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishchirayath1&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&langs_count=10"/></td>
+<td><img height="200" src="https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark"/></td>
 <!-- GitHub Top Language Card -->
 <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td>
 </tr>
-<tr>
-  <td><img height="200" src="https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark"/></td>
+</table>
+<table>
+<tr>  
+  <td width="300"></td>
+    <td valign="center" width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishchirayath1&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&langs_count=10"/></td>
+   <td width="300"></td>
 </tr>
 </table>
 
