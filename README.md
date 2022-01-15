@@ -49,8 +49,13 @@
 <!-- GitHub Top Language Card -->
 <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td>
 </tr>
+<tr>
+  <td><img height="200" src="https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark"/></td>
+</tr>
 </table>
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark)](https://leetcode.com/sanishchirayath/)
+
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark) -->
+
 ---
 ### 📫 &nbsp; How to reach me:
 
