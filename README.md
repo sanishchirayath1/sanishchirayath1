@@ -50,7 +50,7 @@
 <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td>
 </tr>
 <tr>
-  <td>[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Jsanishchirayath)](https://leetcode.com/sanishchirayath/)</td>
+  <td>[![Leetcode Stats](https://leetcode.card.workers.dev/?username=sanishchirayath)](https://leetcode.com/sanishchirayath/)</td>
 </tr>
 </table>
 
