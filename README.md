@@ -43,22 +43,22 @@
 
 </td>
 </tr>
-</table>
-<table cellpadding="0">
-<tr style="padding: 0">
+<!-- </table> -->
+<!-- <table cellpadding="0"> -->
+<!-- <tr style="padding: 0"> -->
 <!-- GitHub Stats Card -->  
-<td><a href="https://leetcode.com/sanishchirayath"><img height="200" src="https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark"/></a></td>
+<!-- <td><a href="https://leetcode.com/sanishchirayath"><img height="200" src="https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark"/></a></td> -->
 <!-- GitHub Top Language Card -->
-<td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td>
-</tr>
-</table>
-<table>
-<tr>  
-  <td width="300"></td>
-    <td valign="center" width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishchirayath1&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&langs_count=10"/></td>
-   <td width="300"></td>
-</tr>
-</table>
+<!-- <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=sanishchirayath1&show_icons=true&theme=chartreuse-dark"/></td> -->
+<!-- </tr> -->
+<!-- </table> -->
+<!-- <table> -->
+<!-- <tr>   -->
+<!--   <td width="300"></td> -->
+<!--     <td valign="center" width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishchirayath1&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&langs_count=10"/></td> -->
+<!--    <td width="300"></td> -->
+<!-- </tr> -->
+<!-- </table> -->
 
 <!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark) -->
 
