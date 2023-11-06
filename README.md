@@ -60,7 +60,7 @@
 <!-- </tr> -->
 <!-- </table> -->
 
-<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark) -->
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=sanishchirayath&theme=dark)
 
 ---
 ### 📫 &nbsp; How to reach me:
