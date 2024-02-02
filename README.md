@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sanish chirayath</h1>
-<h3 align="center">A passionate frontend developer from Kerala, I love to build products, I love to keeping up with new technologies. Currently learning about AI, Experimenting with UI/UX to bring about  meaningful addition of AI into web applications</h3>
+<h3 align="center">A passionate software engineer from Kerala, I love to build products, learn new technologies. Currently learning about AI, Experimenting with UI/UX to bring about  meaningful addition of AI into web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanishchirayath1&label=Profile%20views&color=0e75b6&style=flat" alt="sanishchirayath1" /> </p>
 
