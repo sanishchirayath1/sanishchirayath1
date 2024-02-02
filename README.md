@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Headstart](https://density-debris-jet.vercel.app/)
 
-- 🌱 I’m currently learning **Nuxt, Next JS, Next Js, React, Vue, Vector databases, supabase, AWS, Vercel, PostgreSQL, Docker, Mongodb**
+- 🌱 I’m currently learning **Nuxt, Next JS, Nest Js, React, Vue, Vector databases, supabase, AWS, Vercel, PostgreSQL, Docker, Mongodb**
 
 - 🤝 I’m looking for help with [App - Headstart](https://github.com/sanishchirayath1/app-headstart)
 
