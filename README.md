@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sanishch" target="blank"><img src="https://img.shields.io/twitter/follow/sanishch?logo=twitter&style=for-the-badge" alt="sanishch" /></a> </p>
 
-- 🔭 I’m currently working on [Headstart](https://density-debris-jet.vercel.app/)
+- 🔭 I’m currently working on [Headstart](https://github.com/app-headstart)
 
 - 🌱 I’m currently learning **Nuxt, Next JS, Nest Js, React, Vue, Vector databases, supabase, AWS, PostgreSQL, Docker, Mongodb**
 
-- 🤝 I’m looking for help with [App - Headstart](https://github.com/sanishchirayath1/app-headstart)
+- 🤝 I’m looking for help with [App - Headstart](https://github.com/app-headstart)
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-one-blush.vercel.app/home](https://personal-portfolio-one-blush.vercel.app/home)
 
