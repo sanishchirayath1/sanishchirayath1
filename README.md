@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [App - Headstart](https://github.com/app-headstart)
 
-- 👨‍💻 All of my projects are !available at [https://personal-portfolio-one-blush.vercel.app/home](https://portfolio.hstart.in)
+- 👨‍💻 All of my projects are !available at [portfolio](https://portfolio.hstart.in)
 
-- 📝 I !regularly write articles on [https://hashnode.com/@SanishChirayath](https://hashnode.com/@SanishChirayath)
+- 📝 I !regularly write articles on [hashnode](https://hashnode.com/@SanishChirayath)
 
 - 💬 Ask me about **AI, Frontend, DSA, Personal Finance**
 
