@@ -22,6 +22,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Hosting a static website on AWS S3 with CI/CD](https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh)
+- [Hosting a static website on AWS S3 with CI/CD](https://sanishchirayath.hashnode.dev/hosting-a-static-website-on-aws-s3-with-cicd)
+- [Setting up your Next Js app with Tailwind CSS and jest](https://sanishchirayath.hashnode.dev/setting-up-your-next-js-app-with-tailwind-css-and-jest)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
