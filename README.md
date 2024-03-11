@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a static website on AWS S3 with CI/CD](https://dev.to/sanishchirayath1/hosting-a-static-website-on-aws-s3-with-cicd-3deh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
