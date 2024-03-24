@@ -21,9 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a static website with AWS CDK: A Lazy Engineer&#39;s Guide](https://sanishchirayath.hashnode.dev/automate-aws-infrastructure-deployment-with-aws-cdk-a-lazy-engineers-guide)
-- [Hosting a static website on AWS S3 with CI/CD](https://sanishchirayath.hashnode.dev/hosting-a-static-website-on-aws-s3-with-cicd)
-- [Setting up your Next Js app with Tailwind CSS and jest](https://sanishchirayath.hashnode.dev/setting-up-your-next-js-app-with-tailwind-css-and-jest)
+- [Deploying a static website with AWS CDK: A Lazy Engineer&#39;s Guide](https://blogs.hstart.in/automate-aws-infrastructure-deployment-with-aws-cdk-a-lazy-engineers-guide)
+- [Hosting a static website on AWS S3 with CI/CD](https://blogs.hstart.in/hosting-a-static-website-on-aws-s3-with-cicd)
+- [Setting up your Next Js app with Tailwind CSS and jest](https://blogs.hstart.in/setting-up-your-next-js-app-with-tailwind-css-and-jest)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
